@@ -93,3 +93,14 @@ CUDA_LAUNCH_BLOCKING=1 python experiments_tab_transformer_DFR.py \
 
 ## Acknowledgement
 Tab-transformer, and ft-transformer backbones were adapted from https://github.com/lucidrains/tab-transformer-pytorch
+
+## Citation
+```
+@Inproceedings{Ghosh2024,
+ author = {Shantanu Ghosh and Joseph Xie and Mikhail Kuznetsov},
+ title = {Distributionally robust self-supervised learning for tabular data},
+ year = {2024},
+ url = {https://www.amazon.science/publications/distributionally-robust-self-supervised-learning-for-tabular-data},
+ booktitle = {NeurIPS 2024 Workshop on Table Representation Learning},
+}
+```
